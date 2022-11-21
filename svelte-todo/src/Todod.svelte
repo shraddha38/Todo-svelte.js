@@ -131,7 +131,7 @@
 <style>
     .container {
         max-width: 800px;
-        margin: 10px auto;
+        margin: 100px auto;
     }
     .todo-input {
         width: 100%;

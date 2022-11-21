@@ -1,4 +1,5 @@
 <script>
-    import Todos from './Todod.svelte'
+    import Todos from "./Todod.svelte";
 </script>
+
 <Todos />
